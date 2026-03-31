@@ -1,7 +1,6 @@
 **Vulnerable website Identified –**
 http://users.ece.cmu.edu/~pgrover/files/
 The identified vulnerable website is a publicly accessible directory hosted by Carnegie Mellon University. This website by found by operating on the prompt "index of /" "parent directory" in the search engine which returned a number of vulnerable websites such as this.
-/n
 **Vulnerabilities Identified –**
 1)The website uses HTTP protocol instead of HTTPS, which means the data transmitted between the user and the server is not encrypted.
 2)The website also exposes an open directory listing, allowing anyone to view and access the files stored on the server without proper authentication.
