@@ -7,3 +7,4 @@ The identified vulnerable website is a publicly accessible directory hosted by C
 **Why is it vulnerable?**
 These vulnerabilities make the website insecure for several reasons. The use of HTTP means that data transmission is not protected making its vulnerable to interception. This makes the connection relatively insecure as attackers on the same network can intercept or monitor the data being transmitted. Furthermore, the open directory listing exposes files that may contain sensitive or unintended information. The page displays a list of files including pdfs, images and folders which can be freely accessed and downloaded.
 
+part1/A4_Vulnerable_Website/vulnerable_web.png
