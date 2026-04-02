@@ -1,4 +1,4 @@
-#A21 Participate in a an online cybersecurity discussion
+# A21 Participate in a an online cybersecurity discussion
 
 As part of this activity, I participated in an online cyber security discussion in the online cyberguru server in discord. The discussion focused on phishing attacks, whether the attack is more directed to user responsibility or company responsibility, how these occur and ways to avoid or prevent them.
 
