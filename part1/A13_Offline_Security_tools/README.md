@@ -5,7 +5,8 @@ While browsing the internet I encountered a security warning when I tried to acc
 ### 2)Google Password manager
 I use google password manager to store and autofill my website passwords. It also alerts me if any of my passwords are weak or compromised. 
 ### 3)VPN
-I use VPN when browsing through public networks. It encrypts my internet traffic and hides my IP address. Hence this is a secure security tool that ensures confidentiality by encrypting data and protecting it form interception.
+I use VPN when browsing through public networks. It encrypts my internet traffic and hides my IP address. Hence this is a secure security tool that ensures confidentiality by encrypting data and protecting it form interception. In the given proof, my initial ip address is shown, then i switch the vpn on to south korea. When checked again, the ip address is in south korea.
+
 ### 4)email spam filters
 I observed email automatically filtering suspicious emails out of my inbox. I also tested this my drafting a fake scam mail that looked identical to a phishing email and Gmail automatically filtered it out to spam as shown below.
  
