@@ -1,6 +1,6 @@
 # A14 - Discover 5 AI enables security solutions
-### 1)AI enabled smart security cameras
-I observed Security cameras in public spaces that uses AI security technology to detect humans, animals or cars. AI based detection improves surveillance by accurately identifying potential threats and reducing false alarms
+### 1)AI enabled smart door lock
+I observed AI enables door locks in home spaces that uses AI security technology to detect individuals faces and provide automatic access to the house. AI based detection improves surveillance by accurately identifying individuals.
 ### 2)Google reCAPTCHA(AI bot detection)
 While signing into websites I completed reCAPTCHA verification tasks such as clicking “Im not a robot” or selecting images. The system uses AI to detect the behaviour and distinguish humans from bots.
   
