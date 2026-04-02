@@ -1,5 +1,7 @@
-#A1 – Security Concepts used on campus 
-##Security Concepts Identified –
+# A1 – Security Concepts used on campus 
+
+## Security Concepts Identified –
+
 1)Confidentiality – Student/Staff ID access systems
 In University of Western Australia’s Campus, it is observed that confidentiality is maintained by using access control systems restricting access to authorised individuals. Libraries, buildings and labs have these access system that provide access only when scanned by a valid student ID. The Reid library also restricts access to the upper floors to outsiders after staffed hours, where only someone with a campus card can access these floors. This prevents unauthorised access to sensitive area thereby protecting physical assets and personal data.
 2)Integrity – Serveillance cameras in libraries
