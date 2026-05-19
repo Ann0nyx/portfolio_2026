@@ -24,3 +24,21 @@ Organisations increasingly rely on AWS, Azure,Google Cloud and Kubernetes while 
 
 ## Evidence
 A Forrester Total Economic Impact™ study cited in CrowdStrike material reported that Falcon Cloud Security delivered a 20–30% improvement in mean time to detect, around 30% improvement in mean time to respond, and 45% better cloud security visibility.
+
+# 4 - Identity Security and Phishing-resistant Authentication
+Identity security protects user accounts, authentication systems, and privileged access through phishing-resistant MFA, passkeys, FIDO2 authentication, privileged access management, and continuous authentication monitoring. Passkeys and FIDO2 use public-key cryptography instead of reusable passwords, making credential theft and phishing significantly harder.
+
+## Why is it considered State of art?
+Modern attackers increasingly target credentials through phishing, MFA fatigue attacks, and session hijacking rather than attacking systems directly. Identity security is state-of-the-art because it reduces account compromise, prevents phishing, removes reliance on passwords, and underpins Zero Trust environments.
+
+## Evidence
+Microsoft explains that passkeys built on FIDO2 use origin-bound public-key cryptography and local device authentication to resist phishing and replay attacks. 
+
+# 5 - AI Powered Cyber Security Solutions
+AI-powered cybersecurity uses artificial intelligence, machine learning, behavioural analytics, and automation to improve threat detection, investigation, and response. These systems analyse large volumes of telemetry across endpoints, networks, cloud, identities, and applications, enabling AI-assisted SOC operations, automated threat hunting, AI-generated incident analysis, and autonomous workflow orchestration.
+
+## Why is it considered State of art?
+Modern attacks are increasingly automated and fast, making manual security operations too slow. AI-powered cybersecurity is state-of-the-art because it accelerates detection, automates repetitive tasks, reduces alert fatigue, improves accuracy, and enables machine-speed defence — particularly important as attackers themselves adopt AI to scale their operations.
+
+## Evidence
+CrowdStrike material describes "agentic security operations" where AI reasons across domains and automates workflows, reporting a 70% reduction in manual investigation workloads, over 40 hours of analyst capacity restored per week, and greater than 98% decision accuracy.
