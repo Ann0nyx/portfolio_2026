@@ -39,6 +39,7 @@ He also discussed how certifications can support career development but emphasis
 
 This discussion gave me valuable insight into real-world infrastructure, cybersecurity operations and large scale research technology projects. Learning about projects involving secure data management, networking and fibre infrastructure helped me better understand how cybersecurity and systems administration are applied in industry environments. The conversation also gave me useful career advice regarding certifications, technical skills and future cybersecurity pathways.
 
+(please see the attached recording for evidence)
 ---
 
 ## 2) Discussion with Wellington Mavhunduke – Fraud Analyst at Bankwest
@@ -74,3 +75,5 @@ He stated that the team has already reduced fraudulent onboarding rates by appro
 ## Reflection
 
 This discussion provided valuable insight into how cybersecurity and fraud detection are applied within the banking industry. Learning about biometric bypass attempts, fraud analysis, financial crime investigations and inter-bank collaboration helped me better understand the practical challenges organisations face when securing financial systems and protecting customers from scams and money laundering activities.
+
+(please see the attached recording for evidence)
