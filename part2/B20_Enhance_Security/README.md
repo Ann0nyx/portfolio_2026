@@ -68,7 +68,7 @@ This feature automatically scans dependencies for publicly known vulnerabilities
 
 Evidence:
 
-![Dependabot Enabled](gitenhance-1.png)
+![Dependabot Enabled](gitenhance-7.png)
 
 ---
 
@@ -86,7 +86,7 @@ This feature automatically creates pull requests when vulnerable dependencies ha
 
 Evidence:
 
-![Dependabot Security Updates](gitenhance-1.png)
+![Dependabot Security Updates](gitenhance-7.png)
 
 ---
 
