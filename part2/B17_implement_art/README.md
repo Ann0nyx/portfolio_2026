@@ -15,10 +15,6 @@ mkdir passkey-demo
 cd passkey-demo
 ```
 
-Evidence:
-
-![Setup](artimp-1.png)
-
 ---
 
 ## Step 2 - Install Required Dependencies
