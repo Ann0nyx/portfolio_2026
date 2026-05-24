@@ -62,7 +62,7 @@ ai_image.png
 
 ## Generated Image
 
-![Generated AI Image](ai-image.png)
+![Generated AI Image](ai-image-1.png)
 
 ---
 
@@ -108,7 +108,7 @@ print("Watermark embedded into", output_image)
 
 ## Evidence
 
-![Embedding Script](embed-script.png)
+![Embedding Script](ai-image-2.png)
 
 ---
 
@@ -130,7 +130,7 @@ The resulting image visually appeared identical to the original image because th
 
 ## Evidence
 
-![Watermark Embedded Terminal Output](embed-terminal.png)
+![Watermark Embedded Terminal Output](ai-image-3.png)
 
 ---
 
@@ -148,7 +148,7 @@ These edits simulated realistic ways AI-generated media may be modified, redistr
 
 ## Edited Image Evidence
 
-![Edited Watermarked Image](edited-image.png)
+![Edited Watermarked Image](ai-image-5.png)
 
 ---
 
@@ -199,7 +199,7 @@ print("Extracted watermark:", watermark)
 
 ## Evidence
 
-![Extraction Script](extract-script.png)
+![Extraction Script](ai-image-4.png)
 
 ---
 
@@ -221,7 +221,7 @@ This confirmed that the hidden watermark survived the image editing and regenera
 
 ## Evidence
 
-![Extracted Watermark Output](extract-terminal.png)
+![Extracted Watermark Output](ai-image-6.png)
 
 ---
 
