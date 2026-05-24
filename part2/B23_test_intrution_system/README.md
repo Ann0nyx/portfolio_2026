@@ -100,7 +100,7 @@ This interface was later used by Snort for packet monitoring.
 
 ### Evidence
 
-![IP Address Information](ids-3.png)
+![IP Address Information](ids-13.png)
 
 ---
 
@@ -136,7 +136,7 @@ alert icmp any any -> any any (msg:"ICMP ping detected"; sid:1000001; rev:1;)
 This rule instructed Snort to generate an alert whenever ICMP ping traffic was detected.
 
 ### Evidence
-
+![Local Rules File](ids-3.png)
 ![Local Rules File](ids-4.png)
 
 ---
