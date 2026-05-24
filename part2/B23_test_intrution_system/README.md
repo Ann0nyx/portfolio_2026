@@ -148,7 +148,7 @@ This rule instructed Snort to generate an alert whenever ICMP ping traffic was d
 The Snort configuration file was edited:
 
 ```bash
-sudo nano /etc/snort/snort.lua
+sudo nano /etc/snort/snort.conf
 ```
 
 The following line was added:
@@ -166,7 +166,7 @@ This demonstrated the importance of proper IDS configuration and rule loading.
 ### Evidence
 
 ![Snort Configuration](ids-5.png)
-
+![Snort Configuration](ids-6.png)
 ---
 
 # Running the IDS
@@ -198,9 +198,9 @@ The IDS then began monitoring live traffic on the network interface.
 
 ### Evidence
 
-![Running Snort](ids-6.png)
+![Running Snort](ids-7.png)
 
-![Packet Processing](ids-7.png)
+![Packet Processing](ids-8.png)
 
 ---
 
@@ -222,7 +222,7 @@ This traffic was used to trigger the custom Snort detection rule.
 
 ### Evidence
 
-![Ping Test](ids-8.png)
+![Ping Test](ids-9.png)
 
 ---
 
@@ -253,13 +253,13 @@ The alerts confirmed that:
 
 ### Evidence
 
-![IDS Alerts 1](ids-9.png)
+![IDS Alerts 1](ids-10.png)
 
-![IDS Alerts 2](ids-10.png)
+![IDS Alerts 2](ids-11.png)
 
-![IDS Alerts 3](ids-11.png)
+![IDS Alerts 3](ids-12.png)
 
-![IPv6 ICMP Detection](ids-12.png)
+
 
 ---
 
