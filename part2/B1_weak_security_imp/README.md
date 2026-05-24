@@ -40,9 +40,8 @@ The website https://cid.org.au/ was observed exposing internal WordPress plugin 
 
 
 Evidence observed – 
-''' /wp-content/plugins/gravityforms/
+/wp-content/plugins/gravityforms/
 gaddon_settings.min.css?ver=2.10.1
-'''
 
 Command used - curl https://cid.org.au/ 
 
