@@ -24,8 +24,6 @@ The objective of this activity was to:
 
 # Environment and Tools Used
 
-The following environment and tools were used:
-
 | Tool / System | Purpose |
 |---|---|
 | Kali Linux VM | Testing environment |
@@ -57,6 +55,10 @@ This installed:
 
 The installation completed successfully without errors.
 
+### Evidence
+
+![Snort Installation](ids-1.png)
+
 ---
 
 ## Step 2 — Verifying the Snort Installation
@@ -76,6 +78,10 @@ The output confirmed:
 
 This verified that the IDS software was correctly installed and operational.
 
+### Evidence
+
+![Snort Version](ids-2.png)
+
 ---
 
 ## Step 3 — Identifying the Network Interface
@@ -91,6 +97,10 @@ The output showed:
 - local IP address: 192.168.64.2
 
 This interface was later used by Snort for packet monitoring.
+
+### Evidence
+
+![IP Address Information](ids-3.png)
 
 ---
 
@@ -125,6 +135,10 @@ alert icmp any any -> any any (msg:"ICMP ping detected"; sid:1000001; rev:1;)
 
 This rule instructed Snort to generate an alert whenever ICMP ping traffic was detected.
 
+### Evidence
+
+![Local Rules File](ids-4.png)
+
 ---
 
 # Configuring Snort
@@ -148,6 +162,10 @@ This ensured the custom detection rules were loaded during execution.
 Initially, Snort did not generate alerts because the rules were not correctly loaded into the configuration. After adding the include statement, the IDS functioned correctly.
 
 This demonstrated the importance of proper IDS configuration and rule loading.
+
+### Evidence
+
+![Snort Configuration](ids-5.png)
 
 ---
 
@@ -178,6 +196,12 @@ Snort successfully loaded:
 
 The IDS then began monitoring live traffic on the network interface.
 
+### Evidence
+
+![Running Snort](ids-6.png)
+
+![Packet Processing](ids-7.png)
+
 ---
 
 # Generating Test Traffic
@@ -196,6 +220,10 @@ The system successfully transmitted and received:
 
 This traffic was used to trigger the custom Snort detection rule.
 
+### Evidence
+
+![Ping Test](ids-8.png)
+
 ---
 
 # Detection Results
@@ -213,7 +241,6 @@ The alerts included:
 - hexadecimal packet contents
 
 Example alert information included:
-
 - ICMP echo requests
 - ICMP echo replies
 - IPv4 ICMP traffic
@@ -223,6 +250,16 @@ The alerts confirmed that:
 - the IDS was actively monitoring traffic
 - the custom rule was functioning correctly
 - Snort successfully detected matching network activity
+
+### Evidence
+
+![IDS Alerts 1](ids-9.png)
+
+![IDS Alerts 2](ids-10.png)
+
+![IDS Alerts 3](ids-11.png)
+
+![IPv6 ICMP Detection](ids-12.png)
 
 ---
 
